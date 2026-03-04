@@ -1,0 +1,5 @@
+import streamlit as st
+
+st.title("Lumbar Disc AI Demo")
+
+st.write("Si ves esto funcionando, la app está online.")
